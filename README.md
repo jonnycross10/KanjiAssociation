@@ -6,10 +6,15 @@ This is a primitive version of a full application I want to build out and put on
 
 # Prerequisites
 The python version I used is 3.8.10
+
 I had to install 2 libraries: 
+
+```
 pip install jaconv
+```
+```
 pip install jisho_api
-jisho_api
+```
 
 # Instructions
 The core game loop is run by running the python file kanji.py
